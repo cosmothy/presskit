@@ -2,122 +2,45 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Welcome to Seasons, more than just a powerful weather application, it is a brand-new immersive weather application meticulously crafted for Apple Vision Pro.
 
-[Link to another page](./another-page.html).
+# All About Seasons
 
-There should be whitespace between paragraphs.
+### Carefully designed immersive weather ambiances
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Seasons has meticulously designed 34 immersive weather ambiances, complemented by Spatial Audio technology, bringing magical weather scenes right before your eyes! From clear skies, gentle breezes, rain, snow, to fog, haze, smoke, dust, and even extreme weather like thunderstorms, tropical storms, hurricanes, blizzard — all can be faithfully reproduced in Seasons. Whether it's scorching heat or icy snow, Seasons offers a completely new immersive experience.
 
-# Header 1
+### Seamless switching between cities and various environmental spaces
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+In Seasons, we strive to provide users with an unprecedented weather ambiance experience. By switching cities, you'll immerse yourself in the unique weather ambiances of different cities. In this space, it's not just a simple weather forecast; it's a real meteorological feast, an immersive experience constructed through both visual and auditory elements.
 
-## Header 2
+### Immersive ambient experiences
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+In Seasons, you'll feel the gentle sound of drizzling rain hitting the water surface as if you're in the midst of rain. Or the roaring of a storm that seems to want to lift the roof, letting you experience the howling of the fierce wind. There are even moments of heavy snowfall, making you shiver as you feel the cold of the ice and snow. With Seasons, you can immerse yourself in listening to different weather sounds and experience the real presence of weather.
 
-### Header 3
+### Unprecedented spatial audio
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Through Seasons' spatial audio technology, you'll be transported into a real weather scene. Raindrops, wind sounds, thunder — all will echo in a completely new way around your ears. This unparalleled auditory experience makes you feel as if you're truly in the weather of different cities.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+# Get Seasons
 
-#### Header 4
+[get.seasons.app](https://get.seasons.app/?utm_source=presskit).
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+In Seasons, we not only provide weather forecasts but also allow you to personally experience the unpredictable nature of weather. 
 
-##### Header 5
+Download Seasons, and let weather be more than just numbers and icons — it's a sensory journey into the surroundings.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+# Price
 
-###### Header 6
+To thank early supporters, Seasons is currently offered at a lifetime membership price of $12.99. Spending $12.99 will unlock all the magical capabilities of Seasons, and there won't be additional charges for early users for future feature releases.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+# Contact: Join / Invest
 
-### There's a horizontal rule below this.
+If you are interested in investing in or joining Seasons and collaborating with us to explore the future of spatial computing, please feel free to reach out through the following contact channels:
 
-* * *
+𝕏: [x.com/seasons_app](https://x.com/seasons_app)
 
-### Here is an unordered list:
+Email: (contact@illusion.tech)
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+We welcome the opportunity to discuss potential partnerships and opportunities with you. Thank you for expressing interest in Seasons.
 
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
