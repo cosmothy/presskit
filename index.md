@@ -34,8 +34,6 @@ Through Seasons' spatial audio technology, you'll be transported into a real wea
 
 ## Get Seasons
 
-Download here: [get.seasons.app](https://get.seasons.app/?utm_source=presskit)
-
 [![Download Seasons](https://press.seasons.app/assets/images/appstore.svg)](https://get.seasons.app/?utm_source=presskit "Download Seasons on the App Store")
 
 In Seasons, we not only provide weather forecasts but also allow you to personally experience the unpredictable nature of weather. 
@@ -52,7 +50,7 @@ If you are interested in investing in or joining Seasons and collaborating with 
 
 𝕏: [x.com/seasons_app](https://x.com/seasons_app)
 
-Email: [contact@illusion.tech](contact@illusion.tech)
+✉️: [contact@illusion.tech](mailto:contact@illusion.tech)
 
 We welcome the opportunity to discuss potential partnerships and opportunities with you. Thank you for expressing interest in Seasons.
 
