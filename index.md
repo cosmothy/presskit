@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Welcome to Seasons, more than just a powerful weather application, it is a brand-new immersive weather application meticulously crafted for Apple Vision Pro.
+Welcome to **Seasons**, more than just a powerful weather application, it is a brand-new immersive weather application meticulously crafted for Apple Vision Pro.
 
 * * *
 
@@ -34,11 +34,11 @@ Through Seasons' spatial audio technology, you'll be transported into a real wea
 
 ## Get Seasons
 
-[![Download Seasons](https://press.seasons.app/assets/images/appstore.svg)](https://get.seasons.app/?utm_source=presskit "Download Seasons on the App Store")
-
 In Seasons, we not only provide weather forecasts but also allow you to personally experience the unpredictable nature of weather. 
 
 Download Seasons, and let weather be more than just numbers and icons — it's a sensory journey into the surroundings.
+
+[![Download Seasons](https://press.seasons.app/assets/images/appstore.svg)](https://get.seasons.app/?utm_source=presskit "Download Seasons on the App Store")
 
 ## Price
 
@@ -52,4 +52,8 @@ If you are interested in investing in or joining Seasons and collaborating with 
 *   [contact@illusion.tech](mailto:contact@illusion.tech)
 
 We welcome the opportunity to discuss potential partnerships and opportunities with you. Thank you for expressing interest in Seasons.
+
+## Download PressKit.zip
+
+Google Drive: [https://drive.google.com/drive/folders/1CzSjDGUK2CJ9SfJGlld6c5AKaJE0kSAN](https://drive.google.com/drive/folders/1CzSjDGUK2CJ9SfJGlld6c5AKaJE0kSAN)
 
