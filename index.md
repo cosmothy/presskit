@@ -40,9 +40,9 @@ Download Seasons, and let weather be more than just numbers and icons — it's a
 
 [![Download Seasons](https://press.seasons.app/assets/images/appstore.svg)](https://get.seasons.app/?utm_source=presskit "Download Seasons on the App Store")
 
-## Price
+<!-- ## Price
 
-To thank early supporters, Seasons is currently offered at a lifetime membership price of $12.99. Spending $12.99 will unlock all the magical capabilities of Seasons, and there won't be additional charges for early users for future feature releases.
+To thank early supporters, Seasons is currently offered at a lifetime membership price of $12.99. Spending $12.99 will unlock all the magical capabilities of Seasons, and there won't be additional charges for early users for future feature releases. -->
 
 ## Contact us
 
