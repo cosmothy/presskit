@@ -44,7 +44,7 @@ Download Seasons, and let weather be more than just numbers and icons — it's a
 
 To thank early supporters, Seasons is currently offered at a lifetime membership price of $12.99. Spending $12.99 will unlock all the magical capabilities of Seasons, and there won't be additional charges for early users for future feature releases.
 
-## Contact: Join / Invest
+## Contact us
 
 If you are interested in investing in or joining Seasons and collaborating with us to explore the future of spatial computing, please feel free to reach out through the following contact channels:
 
