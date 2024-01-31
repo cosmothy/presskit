@@ -48,9 +48,8 @@ To thank early supporters, Seasons is currently offered at a lifetime membership
 
 If you are interested in investing in or joining Seasons and collaborating with us to explore the future of spatial computing, please feel free to reach out through the following contact channels:
 
-𝕏: [x.com/seasons_app](https://x.com/seasons_app)
-
-✉️: [contact@illusion.tech](mailto:contact@illusion.tech)
+*   [x.com/seasons_app](https://x.com/seasons_app)
+*   [contact@illusion.tech](mailto:contact@illusion.tech)
 
 We welcome the opportunity to discuss potential partnerships and opportunities with you. Thank you for expressing interest in Seasons.
 
