@@ -55,5 +55,5 @@ We welcome the opportunity to discuss potential partnerships and opportunities w
 
 ## Download PressKit.zip
 
-Google Drive: [https://drive.google.com/drive/folders/1CzSjDGUK2CJ9SfJGlld6c5AKaJE0kSAN](https://drive.google.com/drive/folders/1CzSjDGUK2CJ9SfJGlld6c5AKaJE0kSAN)
+Google Drive: [download here](https://drive.google.com/drive/folders/1CzSjDGUK2CJ9SfJGlld6c5AKaJE0kSAN)
 
